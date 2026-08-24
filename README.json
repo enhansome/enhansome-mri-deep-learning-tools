@@ -1,7 +1,818 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BrainIAC",
+          "description": "Foundation model trained on 48k brain MRIs Nature Neuroscience PyTorch 2026",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 958208064,
+            "language": "Python",
+            "last_commit": "2026-02-05T15:36:14Z",
+            "owner": "AIM-KannLab",
+            "repo": "BrainIAC",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MRI-CORE",
+          "description": "Foundation model, 6.9M MRI slices, DINOv2+SAM arXiv PyTorch 2025",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 984334984,
+            "language": "Python",
+            "last_commit": "2025-09-16T16:58:20Z",
+            "owner": "mazurowski-lab",
+            "repo": "mri_foundation",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fmri-fm",
+          "description": "MedARC fMRI foundation model - PyTorch 2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1073094627,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-28T17:34:34Z",
+            "owner": "MedARC-AI",
+            "repo": "CortexMAE",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BrainSegFounder",
+          "description": "Brain segmentation foundation model - PyTorch 2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1112644339,
+            "language": "Python",
+            "last_commit": "2025-12-08T23:24:45Z",
+            "owner": "lab-smile",
+            "repo": "BrainSegFounder",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BrainMorph",
+          "description": "Foundational keypoint model for brain MRI registration - PyTorch 2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 801603811,
+            "language": "Python",
+            "last_commit": "2025-07-24T20:27:15Z",
+            "owner": "alanqrwang",
+            "repo": "brainmorph",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ACTION",
+          "description": "Toolbox with pretrained models on 3800+ fMRI scans NeuroImage PyTorch 2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 783732078,
+            "language": "Python",
+            "last_commit": "2025-11-03T23:59:15Z",
+            "owner": "mxliu",
+            "repo": "ACTION-Software",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BrainLM",
+          "description": "Foundation model for fMRI, trained on 6700h of recordings bioRxiv PyTorch 2023",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 691713352,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-11-22T16:49:12Z",
+            "owner": "vandijklab",
+            "repo": "BrainLM",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Foundation Models"
+    },
+    {
+      "description": "Essential tools for MRI deep learning workflows.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TorchIO",
+          "description": "Tools to read, preprocess, augment 3D medical images arXiv PyTorch 2020",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 224148738,
+            "language": "Python",
+            "last_commit": "2026-08-01T19:06:40Z",
+            "owner": "TorchIO-project",
+            "repo": "torchio",
+            "stars": 2437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MONAI",
+          "description": "Medical Open Network for AI — PyTorch framework for healthcare imaging Docs PyTorch 2019",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 214485001,
+            "language": "Python",
+            "last_commit": "2026-08-23T23:59:16Z",
+            "owner": "Project-MONAI",
+            "repo": "MONAI",
+            "stars": 8629
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nilearn",
+          "description": "Statistical learning on neuroimaging data Docs Python 2014",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1235740,
+            "language": "Python",
+            "last_commit": "2026-08-24T07:19:54Z",
+            "owner": "nilearn",
+            "repo": "nilearn",
+            "stars": 1424
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nibabel",
+          "description": "Read/write neuroimaging file formats (NIfTI, GIFTI, etc.) Docs Python 2006",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 791352,
+            "language": "Python",
+            "last_commit": "2026-08-03T21:58:31Z",
+            "owner": "nipy",
+            "repo": "nibabel",
+            "stars": 790
+          }
+        }
+      ],
+      "title": "Getting Started"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BrainPrep",
+          "description": "Brain MRI preprocessing pipeline - Python 2021",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 119729499,
+            "language": "Python",
+            "last_commit": "2018-05-15T20:24:30Z",
+            "owner": "quqixun",
+            "repo": "BrainPrep",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepPipe",
+          "description": "Medical image manipulation — parallel training, optimization - PyTorch 2019",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 91585844,
+            "language": "Python",
+            "last_commit": "2025-12-04T11:22:40Z",
+            "owner": "neuro-ml",
+            "repo": "deep_pipe",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nobrainer",
+          "description": "DL framework for 3D image processing Docs TensorFlow 2019",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 94588639,
+            "language": "Python",
+            "last_commit": "2026-04-14T16:29:40Z",
+            "owner": "neuronets",
+            "repo": "nobrainer",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MedicalTorch",
+          "description": "Loaders, pre-processors and datasets for medical imaging - PyTorch 2018",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 123063153,
+            "language": "Python",
+            "last_commit": "2024-04-26T17:46:05Z",
+            "owner": "perone",
+            "repo": "medicaltorch",
+            "stars": 872
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SCT",
+          "description": "Spinal Cord Toolbox for spinal cord MRI analysis Docs Python 2014",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20361729,
+            "language": "Python",
+            "last_commit": "2026-08-22T15:31:34Z",
+            "owner": "spinalcordtoolbox",
+            "repo": "spinalcordtoolbox",
+            "stars": 268
+          }
+        }
+      ],
+      "title": "Preprocessing & Pipelines"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MedSAM2",
+              "description": "3D medical images & videos segmentation (ICLR 2025) Project PyTorch 2025",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 958747921,
+                "language": "Python",
+                "last_commit": "2025-07-11T22:49:02Z",
+                "owner": "bowang-lab",
+                "repo": "MedSAM2",
+                "stars": 703
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MedSAM3",
+              "description": "SAM with medical concepts - PyTorch 2025",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1102948508,
+                "language": "Python",
+                "last_commit": "2026-02-06T16:15:20Z",
+                "owner": "Joey-S-Liu",
+                "repo": "MedSAM3",
+                "stars": 320
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MedSAM",
+              "description": "SAM for medical images, 1.5M image-mask pairs Nature Comms PyTorch 2024",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 631367959,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-05-07T13:36:16Z",
+                "owner": "bowang-lab",
+                "repo": "MedSAM",
+                "stars": 4377
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MedLSAM",
+              "description": "Localize and Segment Anything for 3D medical images - PyTorch 2024",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 658246617,
+                "language": "Python",
+                "last_commit": "2024-04-30T06:34:09Z",
+                "owner": "openmedlab",
+                "repo": "MedLSAM",
+                "stars": 524
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SAM Family (Segment Anything)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "nnWNet",
+              "description": "CVPR 2025 transformer benchmark for biomedical segmentation - PyTorch 2025",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 946470349,
+                "language": "Python",
+                "last_commit": "2025-05-17T14:21:27Z",
+                "owner": "Yanfeng-Zhou",
+                "repo": "nnWNet",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nnUNet",
+              "description": "Self-configuring segmentation — gold standard Nature Methods PyTorch 2018",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 181846371,
+                "language": "Python",
+                "last_commit": "2026-07-23T06:09:30Z",
+                "owner": "MIC-DKFZ",
+                "repo": "nnUNet",
+                "stars": 8824
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "nnUNet Family"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TotalSegmentator",
+              "description": "100+ structures in CT/MRI, brain aneurysm TOF Radiology AI PyTorch 2023",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 449681070,
+                "language": "Python",
+                "last_commit": "2026-08-13T09:31:46Z",
+                "owner": "wasserth",
+                "repo": "TotalSegmentator",
+                "stars": 2949
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BrainChop",
+              "description": "In-browser 3D MRI segmentation, WebGPU JOSS JavaScript 2023",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 383217362,
+                "language": "JavaScript",
+                "last_commit": "2026-02-24T15:42:46Z",
+                "owner": "neuroneural",
+                "repo": "brainchop",
+                "stars": 540
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TransUNet",
+              "description": "Transformers (ViT) for medical image segmentation arXiv PyTorch 2021",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 336978043,
+                "language": "Python",
+                "last_commit": "2026-02-25T04:44:14Z",
+                "owner": "Beckschen",
+                "repo": "TransUNet",
+                "stars": 3233
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MEDICAL ZOO",
+              "description": "3D multi-modal medical image segmentation library - PyTorch 2020",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198412763,
+                "language": "Python",
+                "last_commit": "2024-07-25T10:58:26Z",
+                "owner": "black0017",
+                "repo": "MedicalZooPytorch",
+                "stars": 1917
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BraTS-Toolkit",
+              "description": "Docker images for BraTS tumor segmentation - Docker 2020",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 231487751,
+                "language": "Python",
+                "last_commit": "2025-09-23T05:20:33Z",
+                "owner": "neuronflow",
+                "repo": "BraTS-Toolkit",
+                "stars": 105
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Medical Detection Toolkit",
+              "description": "Mask R-CNN, Retina Net, Retina U-Net for medical images - PyTorch 2018",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152747947,
+                "language": "Python",
+                "last_commit": "2024-06-17T22:47:46Z",
+                "owner": "MIC-DKFZ",
+                "repo": "medicaldetectiontoolkit",
+                "stars": 1354
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NiftyNet",
+              "description": "CNN platform for medical image analysis Paper TensorFlow 2017",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 101853569,
+                "language": "Python",
+                "last_commit": "2020-04-21T19:54:52Z",
+                "owner": "NifTK",
+                "repo": "NiftyNet",
+                "stars": 1374
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeepMedic",
+              "description": "Multi-Scale 3D CNN for medical scan segmentation Paper TensorFlow 2016",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 57151909,
+                "language": "Python",
+                "last_commit": "2024-08-04T12:23:09Z",
+                "owner": "deepmedic",
+                "repo": "deepmedic",
+                "stars": 1063
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "3D-UNet-PyTorch",
+              "description": "3D UNet implementation arXiv PyTorch 2016",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 206358790,
+                "language": "Python",
+                "last_commit": "2025-02-20T15:30:16Z",
+                "owner": "zyl200846",
+                "repo": "3D-UNet-PyTorch-Implementation",
+                "stars": 101
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SegNet",
+              "description": "Encoder-Decoder architecture for segmentation arXiv Caffe 2015",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40366929,
+                "language": "C++",
+                "last_commit": "2018-03-15T08:10:01Z",
+                "owner": "alexgkendall",
+                "repo": "caffe-segnet",
+                "stars": 1083
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other Segmentation"
+        }
+      ],
+      "title": "Segmentation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "clinicadl",
+          "description": "Reproducible CNN experiments for Alzheimer's classification Docs PyTorch 2020",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 197020652,
+            "language": "Python",
+            "last_commit": "2026-08-18T14:24:56Z",
+            "owner": "aramis-lab",
+            "repo": "clinicadl",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NiftyTorch",
+          "description": "Python API for deploying DNNs in neuroimaging - PyTorch 2020",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 263194245,
+            "language": null,
+            "last_commit": "2021-09-13T13:39:24Z",
+            "owner": "NiftyTorch",
+            "repo": "NiftyTorch.doc",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pytorch-LRP",
+          "description": "Layer-wise relevance propagation for MRI classification arXiv PyTorch 2019",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 174129591,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-25T10:59:10Z",
+            "owner": "moboehle",
+            "repo": "Pytorch-LRP",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3D-Convnet-Alzheimers",
+          "description": "Alzheimer's detection from T1 MRI (ADNI database) - TensorFlow 2019",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 94410243,
+            "language": "Python",
+            "last_commit": "2019-11-21T00:53:23Z",
+            "owner": "RishalAggarwal",
+            "repo": "3D-Convnet-for-Alzheimer-s-Detection",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CNN-3D-images-Tensorflow",
+          "description": "MRI classification using 3D CNN - TensorFlow 2018",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 87142290,
+            "language": "Python",
+            "last_commit": "2019-10-29T19:08:19Z",
+            "owner": "jibikbam",
+            "repo": "CNN-3D-images-Tensorflow",
+            "stars": 268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DLTK",
+          "description": "Deep Learning Toolkit for Medical Imaging Paper TensorFlow 2017",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 90050085,
+            "language": "Python",
+            "last_commit": "2023-03-24T22:27:46Z",
+            "owner": "DLTK",
+            "repo": "DLTK",
+            "stars": 1458
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "population-gcn",
+          "description": "Graph CNNs for disease prediction (ABIDE dataset) Paper TensorFlow 2017",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 89717499,
+            "language": "Python",
+            "last_commit": "2022-03-28T01:55:19Z",
+            "owner": "parisots",
+            "repo": "population-gcn",
+            "stars": 180
+          }
+        }
+      ],
+      "title": "Classification & Prognosis"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GANCS",
+          "description": "Compressed Sensing MRI using GANs - PyTorch 2018",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 89663246,
+            "language": "Jupyter Notebook",
+            "last_commit": "2017-12-18T02:38:38Z",
+            "owner": "gongenhao",
+            "repo": "GANCS",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep-MRI-Reconstruction",
+          "description": "DC-CNN and CRNN-MRI for undersampled MR reconstruction Paper PyTorch 2017",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 92837763,
+            "language": "Python",
+            "last_commit": "2022-05-04T10:33:46Z",
+            "owner": "js3611",
+            "repo": "Deep-MRI-Reconstruction",
+            "stars": 346
+          }
+        }
+      ],
+      "title": "Reconstruction"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TractSeg",
+          "description": "White matter bundle segmentation from diffusion MRI Paper PyTorch 2018",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 109972425,
+            "language": "Python",
+            "last_commit": "2026-02-23T13:23:20Z",
+            "owner": "MIC-DKFZ",
+            "repo": "TractSeg",
+            "stars": 265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dipy",
+          "description": "Diffusion MRI analysis — tractography, denoising, registration Docs Python 2014",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 505209,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:36:01Z",
+            "owner": "dipy",
+            "repo": "dipy",
+            "stars": 835
+          }
+        }
+      ],
+      "title": "Diffusion & Tractography"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MNE-Python",
+          "description": "MEG and EEG data processing Docs Python 2013",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1301584,
+            "language": "Python",
+            "last_commit": "2026-08-24T12:40:55Z",
+            "owner": "mne-tools",
+            "repo": "mne-python",
+            "stars": 3494
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nipy",
+          "description": "Neuroimaging analysis in Python Docs Python 2009",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 642344,
+            "language": "Python",
+            "last_commit": "2024-12-24T16:12:08Z",
+            "owner": "nipy",
+            "repo": "nipy",
+            "stars": 414
+          }
+        }
+      ],
+      "title": "Visualization & I/O"
+    },
+    {
+      "description": "Resources for getting started with neuroimaging deep learning.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MONAI Tutorials",
+          "description": "Official MONAI notebooks — segmentation, classification, detection Beginner-Advanced",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 288774122,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-13T20:13:38Z",
+            "owner": "Project-MONAI",
+            "repo": "tutorials",
+            "stars": 2529
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MONAI Bootcamp",
+          "description": "Video course with hands-on exercises Beginner",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 516618471,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-11-21T00:54:58Z",
+            "owner": "Project-MONAI",
+            "repo": "monai-bootcamp",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nnU-Net Tutorials",
+          "description": "Self-configuring segmentation Intermediate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 181846371,
+            "language": "Python",
+            "last_commit": "2026-07-23T06:09:30Z",
+            "owner": "MIC-DKFZ",
+            "repo": "nnUNet",
+            "stars": 8824
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fastMRI Tutorial",
+          "description": "MRI reconstruction with deep learning Advanced",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 154900564,
+            "language": "Python",
+            "last_commit": "2025-01-21T14:15:30Z",
+            "owner": "facebookresearch",
+            "repo": "fastMRI",
+            "stars": 1534
+          }
+        }
+      ],
+      "title": "Tutorials & Learning"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T06:03:27.436Z",
+    "last_updated": "2026-08-24T14:35:35.562Z",
     "original_repository": "kondratevakate/mri-deep-learning-tools",
     "original_repository_id": 269449231,
     "original_repository_sha": "1222a468aa4cb603a85b9816aba74cfe5188b46e",
