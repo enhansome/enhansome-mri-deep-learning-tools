@@ -51,7 +51,7 @@ Essential tools for MRI deep learning workflows.
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----------------------------------------- | --------- | ---- |
 | [TorchIO](https://github.com/fepegar/torchio) ⭐ 2,437 \| 🐛 36 \| 🌐 Python \| 📅 2026-08-01    | ![Stars](https://img.shields.io/github/stars/fepegar/torchio?style=flat-square)     | Tools to read, preprocess, augment 3D medical images                   | [arXiv](https://arxiv.org/abs/2003.04696) | PyTorch   | 2020 |
 | [MONAI](https://github.com/Project-MONAI/MONAI) ⭐ 8,630 \| 🐛 531 \| 🌐 Python \| 📅 2026-08-23 | ![Stars](https://img.shields.io/github/stars/Project-MONAI/MONAI?style=flat-square) | Medical Open Network for AI — PyTorch framework for healthcare imaging | [Docs](https://docs.monai.io/)            | PyTorch   | 2019 |
-| [nilearn](https://github.com/nilearn/nilearn) ⭐ 1,424 \| 🐛 297 \| 🌐 Python \| 📅 2026-08-24   | ![Stars](https://img.shields.io/github/stars/nilearn/nilearn?style=flat-square)     | Statistical learning on neuroimaging data                              | [Docs](https://nilearn.github.io/)        | Python    | 2014 |
+| [nilearn](https://github.com/nilearn/nilearn) ⭐ 1,424 \| 🐛 298 \| 🌐 Python \| 📅 2026-08-25   | ![Stars](https://img.shields.io/github/stars/nilearn/nilearn?style=flat-square)     | Statistical learning on neuroimaging data                              | [Docs](https://nilearn.github.io/)        | Python    | 2014 |
 | [nibabel](https://github.com/nipy/nibabel) ⭐ 790 \| 🐛 156 \| 🌐 Python \| 📅 2026-08-24        | ![Stars](https://img.shields.io/github/stars/nipy/nibabel?style=flat-square)        | Read/write neuroimaging file formats (NIfTI, GIFTI, etc.)              | [Docs](https://nipy.org/nibabel/)         | Python    | 2006 |
 
 ## Preprocessing & Pipelines
@@ -80,7 +80,7 @@ Essential tools for MRI deep learning workflows.
 | Tool                                                                                         | Stars                                                                               | Description                                                 | Paper                                                                | Framework | Year |
 | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------- | --------- | ---- |
 | [nnWNet](https://github.com/Yanfeng-Zhou/nnWNet) ⭐ 74 \| 🐛 14 \| 🌐 Python \| 📅 2025-05-17 | ![Stars](https://img.shields.io/github/stars/Yanfeng-Zhou/nnWNet?style=flat-square) | CVPR 2025 transformer benchmark for biomedical segmentation | -                                                                    | PyTorch   | 2025 |
-| [nnUNet](https://github.com/MIC-DKFZ/nnUNet) ⭐ 8,825 \| 🐛 86 \| 🌐 Python \| 📅 2026-07-23  | ![Stars](https://img.shields.io/github/stars/MIC-DKFZ/nnUNet?style=flat-square)     | Self-configuring segmentation — gold standard               | [Nature Methods](https://www.nature.com/articles/s41592-020-01008-z) | PyTorch   | 2018 |
+| [nnUNet](https://github.com/MIC-DKFZ/nnUNet) ⭐ 8,826 \| 🐛 86 \| 🌐 Python \| 📅 2026-07-23  | ![Stars](https://img.shields.io/github/stars/MIC-DKFZ/nnUNet?style=flat-square)     | Self-configuring segmentation — gold standard               | [Nature Methods](https://www.nature.com/articles/s41592-020-01008-z) | PyTorch   | 2018 |
 
 ### Other Segmentation
 
@@ -127,7 +127,7 @@ Essential tools for MRI deep learning workflows.
 
 | Tool                                                                                                  | Stars                                                                                | Description                     | Paper                          | Framework | Year |
 | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------- | ------------------------------ | --------- | ---- |
-| [MNE-Python](https://github.com/mne-tools/mne-python) ⭐ 3,494 \| 🐛 637 \| 🌐 Python \| 📅 2026-08-24 | ![Stars](https://img.shields.io/github/stars/mne-tools/mne-python?style=flat-square) | MEG and EEG data processing     | [Docs](https://mne.tools/)     | Python    | 2013 |
+| [MNE-Python](https://github.com/mne-tools/mne-python) ⭐ 3,494 \| 🐛 642 \| 🌐 Python \| 📅 2026-08-24 | ![Stars](https://img.shields.io/github/stars/mne-tools/mne-python?style=flat-square) | MEG and EEG data processing     | [Docs](https://mne.tools/)     | Python    | 2013 |
 | [nipy](https://github.com/nipy/nipy) ⭐ 414 \| 🐛 40 \| 🌐 Python \| 📅 2024-12-24                     | ![Stars](https://img.shields.io/github/stars/nipy/nipy?style=flat-square)            | Neuroimaging analysis in Python | [Docs](https://nipy.org/nipy/) | Python    | 2009 |
 
 ## Datasets & Benchmarks
@@ -159,7 +159,7 @@ Resources for getting started with neuroimaging deep learning.
 | [Andy's Brain Book](https://andysbrainbook.readthedocs.io/)                                                             | fMRI analysis tutorials (FSL, SPM, FreeSurfer)                     | Beginner          |
 | [nilearn Tutorials](https://nilearn.github.io/stable/auto_examples/)                                                    | Statistical learning on fMRI data                                  | Intermediate      |
 | [TorchIO Tutorials](https://torchio.readthedocs.io/tutorials/)                                                          | 3D medical image preprocessing                                     | Beginner          |
-| [nnU-Net Tutorials](https://github.com/MIC-DKFZ/nnUNet) ⭐ 8,825 \| 🐛 86 \| 🌐 Python \| 📅 2026-07-23                  | Self-configuring segmentation                                      | Intermediate      |
+| [nnU-Net Tutorials](https://github.com/MIC-DKFZ/nnUNet) ⭐ 8,826 \| 🐛 86 \| 🌐 Python \| 📅 2026-07-23                  | Self-configuring segmentation                                      | Intermediate      |
 | [fastMRI Tutorial](https://github.com/facebookresearch/fastMRI) ⚠️ Archived                                             | MRI reconstruction with deep learning                              | Advanced          |
 
 ***
