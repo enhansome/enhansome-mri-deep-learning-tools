@@ -126,7 +126,7 @@
             "last_commit": "2026-08-01T19:06:40Z",
             "owner": "TorchIO-project",
             "repo": "torchio",
-            "stars": 2438
+            "stars": 2439
           }
         },
         {
@@ -138,10 +138,10 @@
             "archived": false,
             "id": 214485001,
             "language": "Python",
-            "last_commit": "2026-08-25T16:09:12Z",
+            "last_commit": "2026-08-26T13:54:22Z",
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8633
+            "stars": 8636
           }
         },
         {
@@ -153,7 +153,7 @@
             "archived": false,
             "id": 1235740,
             "language": "Python",
-            "last_commit": "2026-08-25T13:53:05Z",
+            "last_commit": "2026-08-27T11:29:05Z",
             "owner": "nilearn",
             "repo": "nilearn",
             "stars": 1425
@@ -249,7 +249,7 @@
             "archived": false,
             "id": 20361729,
             "language": "Python",
-            "last_commit": "2026-08-25T18:51:11Z",
+            "last_commit": "2026-08-27T07:56:03Z",
             "owner": "spinalcordtoolbox",
             "repo": "spinalcordtoolbox",
             "stars": 268
@@ -275,7 +275,7 @@
                 "last_commit": "2025-07-11T22:49:02Z",
                 "owner": "bowang-lab",
                 "repo": "MedSAM2",
-                "stars": 705
+                "stars": 706
               }
             },
             {
@@ -357,7 +357,7 @@
                 "last_commit": "2026-07-23T06:09:30Z",
                 "owner": "MIC-DKFZ",
                 "repo": "nnUNet",
-                "stars": 8826
+                "stars": 8832
               }
             }
           ],
@@ -379,7 +379,7 @@
                 "last_commit": "2026-08-13T09:31:46Z",
                 "owner": "wasserth",
                 "repo": "TotalSegmentator",
-                "stars": 2950
+                "stars": 2952
               }
             },
             {
@@ -699,10 +699,10 @@
             "archived": false,
             "id": 505209,
             "language": "Python",
-            "last_commit": "2026-08-26T03:51:28Z",
+            "last_commit": "2026-08-26T18:39:49Z",
             "owner": "dipy",
             "repo": "dipy",
-            "stars": 836
+            "stars": 837
           }
         }
       ],
@@ -720,10 +720,10 @@
             "archived": false,
             "id": 1301584,
             "language": "Python",
-            "last_commit": "2026-08-25T19:08:45Z",
+            "last_commit": "2026-08-27T10:16:10Z",
             "owner": "mne-tools",
             "repo": "mne-python",
-            "stars": 3494
+            "stars": 3496
           }
         },
         {
@@ -759,7 +759,7 @@
             "last_commit": "2026-08-13T20:13:38Z",
             "owner": "Project-MONAI",
             "repo": "tutorials",
-            "stars": 2532
+            "stars": 2533
           }
         },
         {
@@ -789,7 +789,7 @@
             "last_commit": "2026-07-23T06:09:30Z",
             "owner": "MIC-DKFZ",
             "repo": "nnUNet",
-            "stars": 8826
+            "stars": 8832
           }
         },
         {
@@ -812,9 +812,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:59:37.872Z",
-    "original_repository": "kondratevakate/mri-deep-learning-tools",
-    "original_repository_id": 269449231,
+    "last_updated": "2026-08-27T11:52:10.159Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 269449231,
+      "language": null,
+      "last_commit": "2026-02-27T09:07:41Z",
+      "owner": "kondratevakate",
+      "repo": "mri-deep-learning-tools",
+      "stars": 155
+    },
     "original_repository_sha": "1222a468aa4cb603a85b9816aba74cfe5188b46e",
     "enhanced_repository": "enhansome/enhansome-mri-deep-learning-tools",
     "enhanced_repository_description": null,
