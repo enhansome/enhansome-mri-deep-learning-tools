@@ -16,7 +16,8 @@
             "owner": "AIM-KannLab",
             "repo": "BrainIAC",
             "stars": 152
-          }
+          },
+          "first_seen": "2026-08-28T17:36:34.315Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "mazurowski-lab",
             "repo": "mri_foundation",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T17:36:34.315Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "MedARC-AI",
             "repo": "CortexMAE",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T17:36:34.315Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "lab-smile",
             "repo": "BrainSegFounder",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T17:36:34.315Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "alanqrwang",
             "repo": "brainmorph",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T17:36:34.315Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "mxliu",
             "repo": "ACTION-Software",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T17:36:34.315Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "vandijklab",
             "repo": "BrainLM",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T17:36:34.315Z"
         }
       ],
       "title": "Foundation Models"
@@ -126,8 +133,9 @@
             "last_commit": "2026-08-01T19:06:40Z",
             "owner": "TorchIO-project",
             "repo": "torchio",
-            "stars": 2439
-          }
+            "stars": 2440
+          },
+          "first_seen": "2026-08-28T17:36:34.315Z"
         },
         {
           "node_type": "item",
@@ -141,8 +149,9 @@
             "last_commit": "2026-08-26T13:54:22Z",
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8636
-          }
+            "stars": 8640
+          },
+          "first_seen": "2026-08-28T17:36:34.315Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "nilearn",
             "repo": "nilearn",
             "stars": 1425
-          }
+          },
+          "first_seen": "2026-08-28T17:36:34.315Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "nipy",
             "repo": "nibabel",
             "stars": 790
-          }
+          },
+          "first_seen": "2026-08-28T17:36:34.315Z"
         }
       ],
       "title": "Getting Started"
@@ -193,7 +204,8 @@
             "owner": "quqixun",
             "repo": "BrainPrep",
             "stars": 210
-          }
+          },
+          "first_seen": "2026-08-28T17:36:34.315Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "neuro-ml",
             "repo": "deep_pipe",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T17:36:34.315Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "neuronets",
             "repo": "nobrainer",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-28T17:36:34.315Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "perone",
             "repo": "medicaltorch",
             "stars": 872
-          }
+          },
+          "first_seen": "2026-08-28T17:36:34.315Z"
         },
         {
           "node_type": "item",
@@ -249,11 +264,12 @@
             "archived": false,
             "id": 20361729,
             "language": "Python",
-            "last_commit": "2026-08-27T07:56:03Z",
+            "last_commit": "2026-08-28T16:31:56Z",
             "owner": "spinalcordtoolbox",
             "repo": "spinalcordtoolbox",
             "stars": 268
-          }
+          },
+          "first_seen": "2026-08-28T17:36:34.315Z"
         }
       ],
       "title": "Preprocessing & Pipelines"
@@ -276,7 +292,8 @@
                 "owner": "bowang-lab",
                 "repo": "MedSAM2",
                 "stars": 706
-              }
+              },
+              "first_seen": "2026-08-28T17:36:34.315Z"
             },
             {
               "node_type": "item",
@@ -291,7 +308,8 @@
                 "owner": "Joey-S-Liu",
                 "repo": "MedSAM3",
                 "stars": 321
-              }
+              },
+              "first_seen": "2026-08-28T17:36:34.315Z"
             },
             {
               "node_type": "item",
@@ -306,7 +324,8 @@
                 "owner": "bowang-lab",
                 "repo": "MedSAM",
                 "stars": 4379
-              }
+              },
+              "first_seen": "2026-08-28T17:36:34.315Z"
             },
             {
               "node_type": "item",
@@ -321,7 +340,8 @@
                 "owner": "openmedlab",
                 "repo": "MedLSAM",
                 "stars": 524
-              }
+              },
+              "first_seen": "2026-08-28T17:36:34.315Z"
             }
           ],
           "description": null,
@@ -342,8 +362,9 @@
                 "last_commit": "2025-05-17T14:21:27Z",
                 "owner": "Yanfeng-Zhou",
                 "repo": "nnWNet",
-                "stars": 74
-              }
+                "stars": 76
+              },
+              "first_seen": "2026-08-28T17:36:34.315Z"
             },
             {
               "node_type": "item",
@@ -357,8 +378,9 @@
                 "last_commit": "2026-07-23T06:09:30Z",
                 "owner": "MIC-DKFZ",
                 "repo": "nnUNet",
-                "stars": 8832
-              }
+                "stars": 8836
+              },
+              "first_seen": "2026-08-28T17:36:34.315Z"
             }
           ],
           "description": null,
@@ -379,8 +401,9 @@
                 "last_commit": "2026-08-13T09:31:46Z",
                 "owner": "wasserth",
                 "repo": "TotalSegmentator",
-                "stars": 2952
-              }
+                "stars": 2955
+              },
+              "first_seen": "2026-08-28T17:36:34.315Z"
             },
             {
               "node_type": "item",
@@ -395,7 +418,8 @@
                 "owner": "neuroneural",
                 "repo": "brainchop",
                 "stars": 540
-              }
+              },
+              "first_seen": "2026-08-28T17:36:34.315Z"
             },
             {
               "node_type": "item",
@@ -410,7 +434,8 @@
                 "owner": "Beckschen",
                 "repo": "TransUNet",
                 "stars": 3234
-              }
+              },
+              "first_seen": "2026-08-28T17:36:34.315Z"
             },
             {
               "node_type": "item",
@@ -424,8 +449,9 @@
                 "last_commit": "2024-07-25T10:58:26Z",
                 "owner": "black0017",
                 "repo": "MedicalZooPytorch",
-                "stars": 1917
-              }
+                "stars": 1918
+              },
+              "first_seen": "2026-08-28T17:36:34.315Z"
             },
             {
               "node_type": "item",
@@ -440,7 +466,8 @@
                 "owner": "neuronflow",
                 "repo": "BraTS-Toolkit",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-28T17:36:34.315Z"
             },
             {
               "node_type": "item",
@@ -455,7 +482,8 @@
                 "owner": "MIC-DKFZ",
                 "repo": "medicaldetectiontoolkit",
                 "stars": 1357
-              }
+              },
+              "first_seen": "2026-08-28T17:36:34.315Z"
             },
             {
               "node_type": "item",
@@ -470,7 +498,8 @@
                 "owner": "NifTK",
                 "repo": "NiftyNet",
                 "stars": 1374
-              }
+              },
+              "first_seen": "2026-08-28T17:36:34.315Z"
             },
             {
               "node_type": "item",
@@ -485,7 +514,8 @@
                 "owner": "deepmedic",
                 "repo": "deepmedic",
                 "stars": 1063
-              }
+              },
+              "first_seen": "2026-08-28T17:36:34.315Z"
             },
             {
               "node_type": "item",
@@ -500,7 +530,8 @@
                 "owner": "zyl200846",
                 "repo": "3D-UNet-PyTorch-Implementation",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T17:36:34.315Z"
             },
             {
               "node_type": "item",
@@ -515,7 +546,8 @@
                 "owner": "alexgkendall",
                 "repo": "caffe-segnet",
                 "stars": 1083
-              }
+              },
+              "first_seen": "2026-08-28T17:36:34.315Z"
             }
           ],
           "description": null,
@@ -541,7 +573,8 @@
             "owner": "aramis-lab",
             "repo": "clinicadl",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-28T17:36:34.315Z"
         },
         {
           "node_type": "item",
@@ -556,7 +589,8 @@
             "owner": "NiftyTorch",
             "repo": "NiftyTorch.doc",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T17:36:34.315Z"
         },
         {
           "node_type": "item",
@@ -571,7 +605,8 @@
             "owner": "moboehle",
             "repo": "Pytorch-LRP",
             "stars": 175
-          }
+          },
+          "first_seen": "2026-08-28T17:36:34.315Z"
         },
         {
           "node_type": "item",
@@ -586,7 +621,8 @@
             "owner": "RishalAggarwal",
             "repo": "3D-Convnet-for-Alzheimer-s-Detection",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T17:36:34.315Z"
         },
         {
           "node_type": "item",
@@ -601,7 +637,8 @@
             "owner": "jibikbam",
             "repo": "CNN-3D-images-Tensorflow",
             "stars": 268
-          }
+          },
+          "first_seen": "2026-08-28T17:36:34.315Z"
         },
         {
           "node_type": "item",
@@ -616,7 +653,8 @@
             "owner": "DLTK",
             "repo": "DLTK",
             "stars": 1458
-          }
+          },
+          "first_seen": "2026-08-28T17:36:34.315Z"
         },
         {
           "node_type": "item",
@@ -631,7 +669,8 @@
             "owner": "parisots",
             "repo": "population-gcn",
             "stars": 180
-          }
+          },
+          "first_seen": "2026-08-28T17:36:34.315Z"
         }
       ],
       "title": "Classification & Prognosis"
@@ -652,7 +691,8 @@
             "owner": "gongenhao",
             "repo": "GANCS",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T17:36:34.315Z"
         },
         {
           "node_type": "item",
@@ -667,7 +707,8 @@
             "owner": "js3611",
             "repo": "Deep-MRI-Reconstruction",
             "stars": 346
-          }
+          },
+          "first_seen": "2026-08-28T17:36:34.315Z"
         }
       ],
       "title": "Reconstruction"
@@ -688,7 +729,8 @@
             "owner": "MIC-DKFZ",
             "repo": "TractSeg",
             "stars": 265
-          }
+          },
+          "first_seen": "2026-08-28T17:36:34.315Z"
         },
         {
           "node_type": "item",
@@ -699,11 +741,12 @@
             "archived": false,
             "id": 505209,
             "language": "Python",
-            "last_commit": "2026-08-27T13:58:24Z",
+            "last_commit": "2026-08-28T04:47:27Z",
             "owner": "dipy",
             "repo": "dipy",
             "stars": 837
-          }
+          },
+          "first_seen": "2026-08-28T17:36:34.315Z"
         }
       ],
       "title": "Diffusion & Tractography"
@@ -720,11 +763,12 @@
             "archived": false,
             "id": 1301584,
             "language": "Python",
-            "last_commit": "2026-08-27T15:19:57Z",
+            "last_commit": "2026-08-28T16:53:07Z",
             "owner": "mne-tools",
             "repo": "mne-python",
-            "stars": 3496
-          }
+            "stars": 3497
+          },
+          "first_seen": "2026-08-28T17:36:34.315Z"
         },
         {
           "node_type": "item",
@@ -739,7 +783,8 @@
             "owner": "nipy",
             "repo": "nipy",
             "stars": 414
-          }
+          },
+          "first_seen": "2026-08-28T17:36:34.315Z"
         }
       ],
       "title": "Visualization & I/O"
@@ -759,8 +804,9 @@
             "last_commit": "2026-08-13T20:13:38Z",
             "owner": "Project-MONAI",
             "repo": "tutorials",
-            "stars": 2534
-          }
+            "stars": 2533
+          },
+          "first_seen": "2026-08-28T17:36:34.315Z"
         },
         {
           "node_type": "item",
@@ -775,7 +821,8 @@
             "owner": "Project-MONAI",
             "repo": "monai-bootcamp",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T17:36:34.315Z"
         },
         {
           "node_type": "item",
@@ -789,8 +836,9 @@
             "last_commit": "2026-07-23T06:09:30Z",
             "owner": "MIC-DKFZ",
             "repo": "nnUNet",
-            "stars": 8832
-          }
+            "stars": 8836
+          },
+          "first_seen": "2026-08-28T17:36:34.315Z"
         },
         {
           "node_type": "item",
@@ -805,14 +853,15 @@
             "owner": "facebookresearch",
             "repo": "fastMRI",
             "stars": 1533
-          }
+          },
+          "first_seen": "2026-08-28T17:36:34.315Z"
         }
       ],
       "title": "Tutorials & Learning"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:38:27.470Z",
+    "last_updated": "2026-08-28T17:36:34.315Z",
     "original_repository_info": {
       "archived": false,
       "id": 269449231,
