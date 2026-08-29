@@ -207,11 +207,11 @@
             "id": 214485001,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T23:24:40Z",
-            "open_issues": 530,
+            "last_commit": "2026-08-29T10:56:19Z",
+            "open_issues": 529,
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8641,
+            "stars": 8642,
             "topics": [
               "deep-learning",
               "healthcare-imaging",
@@ -572,7 +572,7 @@
                 "open_issues": 86,
                 "owner": "MIC-DKFZ",
                 "repo": "nnUNet",
-                "stars": 8836,
+                "stars": 8835,
                 "topics": [
                   "segmentation"
                 ]
@@ -602,7 +602,7 @@
                 "open_issues": 70,
                 "owner": "wasserth",
                 "repo": "TotalSegmentator",
-                "stars": 2957,
+                "stars": 2956,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
@@ -1225,7 +1225,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T19:17:03Z",
-            "open_issues": 628,
+            "open_issues": 629,
             "owner": "mne-tools",
             "repo": "mne-python",
             "stars": 3497,
@@ -1337,7 +1337,7 @@
             "open_issues": 86,
             "owner": "MIC-DKFZ",
             "repo": "nnUNet",
-            "stars": 8836,
+            "stars": 8835,
             "topics": [
               "segmentation"
             ]
@@ -1380,7 +1380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:55:24.257Z",
+    "last_updated": "2026-08-29T11:44:39.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resurces for MRI images processing and deep learning in 3D",
