@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 958208064,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-05T15:36:14Z",
+            "open_issues": 15,
             "owner": "AIM-KannLab",
             "repo": "BrainIAC",
-            "stars": 152
+            "stars": 152,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 984334984,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-09-16T16:58:20Z",
+            "open_issues": 4,
             "owner": "mazurowski-lab",
             "repo": "mri_foundation",
-            "stars": 100
+            "stars": 100,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CortexMAE fMRI foundation model",
+            "homepage": null,
             "id": 1073094627,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-28T17:34:34Z",
+            "open_issues": 0,
             "owner": "MedARC-AI",
             "repo": "CortexMAE",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
         },
@@ -58,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1112644339,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-12-08T23:24:45Z",
+            "open_issues": 2,
             "owner": "lab-smile",
             "repo": "BrainSegFounder",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
         },
@@ -74,12 +94,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Foundational Keypoint Model for Robust and Flexible Brain MRI Registration",
+            "homepage": null,
             "id": 801603811,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-24T20:27:15Z",
+            "open_issues": 3,
             "owner": "alanqrwang",
             "repo": "brainmorph",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
         },
@@ -90,12 +115,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-Source Python Software for Functional MRI Analysis",
+            "homepage": "https://mingxia.web.unc.edu/action/",
             "id": 783732078,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-11-03T23:59:15Z",
+            "open_issues": 1,
             "owner": "mxliu",
             "repo": "ACTION-Software",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "ai",
+              "federated-learning",
+              "foundation-models",
+              "functional-mri",
+              "graph-augmentation",
+              "open-source-project",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
         },
@@ -106,12 +144,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 691713352,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-22T16:49:12Z",
+            "open_issues": 17,
             "owner": "vandijklab",
             "repo": "BrainLM",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
         }
@@ -128,12 +171,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Medical imaging processing for AI applications.",
+            "homepage": "https://docs.torchio.org/",
             "id": 224148738,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-01T19:06:40Z",
+            "open_issues": 36,
             "owner": "TorchIO-project",
             "repo": "torchio",
-            "stars": 2440
+            "stars": 2440,
+            "topics": [
+              "augmentation",
+              "data-augmentation",
+              "deep-learning",
+              "machine-learning",
+              "medical-image-analysis",
+              "medical-image-computing",
+              "medical-image-processing",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
         },
@@ -144,12 +202,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI Toolkit for Healthcare Imaging",
+            "homepage": "https://project-monai.github.io/",
             "id": 214485001,
             "language": "Python",
-            "last_commit": "2026-08-26T13:54:22Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:24:40Z",
+            "open_issues": 530,
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8640
+            "stars": 8641,
+            "topics": [
+              "deep-learning",
+              "healthcare-imaging",
+              "medical-image-computing",
+              "medical-image-processing",
+              "monai",
+              "python3",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
         },
@@ -160,12 +231,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Machine learning for NeuroImaging in Python",
+            "homepage": "http://nilearn.github.io",
             "id": 1235740,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T15:45:03Z",
+            "open_issues": 290,
             "owner": "nilearn",
             "repo": "nilearn",
-            "stars": 1425
+            "stars": 1425,
+            "topics": [
+              "brain-connectivity",
+              "brain-imaging",
+              "brain-mri",
+              "decoding",
+              "fmri",
+              "machine-learning",
+              "mvpa",
+              "neuroimaging",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
         },
@@ -176,12 +262,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python package to access a cacophony of neuro-imaging file formats",
+            "homepage": "http://nipy.org/nibabel/",
             "id": 791352,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T20:17:32Z",
+            "open_issues": 156,
             "owner": "nipy",
             "repo": "nibabel",
-            "stars": 790
+            "stars": 790,
+            "topics": [
+              "afni-brik-head",
+              "brain-imaging",
+              "cifti-2",
+              "data-formats",
+              "dicom",
+              "ecat",
+              "gifti",
+              "minc",
+              "neuroimaging",
+              "nifti",
+              "python",
+              "streamlines",
+              "tck",
+              "trk"
+            ]
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
         }
@@ -198,12 +304,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Preprocessing pipeline on Brain MR Images through FSL and ANTs, including registration, skull-stripping, bias field correction, enhancement and segmentation.",
+            "homepage": null,
             "id": 119729499,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-05-15T20:24:30Z",
+            "open_issues": 0,
             "owner": "quqixun",
             "repo": "BrainPrep",
-            "stars": 210
+            "stars": 210,
+            "topics": [
+              "ants",
+              "bias-field-correction",
+              "brain",
+              "brain-segmentation",
+              "enhancement",
+              "fsl",
+              "mri",
+              "preprocessing",
+              "registration",
+              "skull-stripping"
+            ]
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
         },
@@ -214,12 +336,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of tools for deep learning experiments",
+            "homepage": null,
             "id": 91585844,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-04T11:22:40Z",
+            "open_issues": 5,
             "owner": "neuro-ml",
             "repo": "deep_pipe",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
         },
@@ -230,12 +357,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework for developing neural network models for 3D image processing.",
+            "homepage": null,
             "id": 94588639,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-14T16:29:40Z",
+            "open_issues": 70,
             "owner": "neuronets",
             "repo": "nobrainer",
-            "stars": 167
+            "stars": 167,
+            "topics": [
+              "machine-learning",
+              "medical-imaging",
+              "neuroimaging",
+              "semantic-segmentation",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
         },
@@ -246,12 +384,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A medical imaging framework for Pytorch",
+            "homepage": "http://medicaltorch.readthedocs.io",
             "id": 123063153,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-26T17:46:05Z",
+            "open_issues": 17,
             "owner": "perone",
             "repo": "medicaltorch",
-            "stars": 872
+            "stars": 872,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "machine-learning",
+              "medical-imaging",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
         },
@@ -262,12 +412,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Comprehensive and open-source library of analysis tools for MRI of the spinal cord.",
+            "homepage": "https://spinalcordtoolbox.com",
             "id": 20361729,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-28T16:31:56Z",
+            "open_issues": 413,
             "owner": "spinalcordtoolbox",
             "repo": "spinalcordtoolbox",
-            "stars": 268
+            "stars": 268,
+            "topics": [
+              "mri",
+              "neuroimage",
+              "python",
+              "spinalcord"
+            ]
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
         }
@@ -286,12 +446,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MedSAM2: Segment Anything in 3D Medical Images and Videos",
+                "homepage": "https://medsam2.github.io/",
                 "id": 958747921,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-11T22:49:02Z",
+                "open_issues": 14,
                 "owner": "bowang-lab",
                 "repo": "MedSAM2",
-                "stars": 706
+                "stars": 706,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
             },
@@ -302,12 +467,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MedSAM3: Delving into Segment Anything with Medical Concepts",
+                "homepage": null,
                 "id": 1102948508,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-02-06T16:15:20Z",
+                "open_issues": 19,
                 "owner": "Joey-S-Liu",
                 "repo": "MedSAM3",
-                "stars": 321
+                "stars": 321,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
             },
@@ -318,12 +488,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Segment Anything in Medical Images",
+                "homepage": "https://www.nature.com/articles/s41467-024-44824-z",
                 "id": 631367959,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2025-05-07T13:36:16Z",
+                "open_issues": 17,
                 "owner": "bowang-lab",
                 "repo": "MedSAM",
-                "stars": 4379
+                "stars": 4379,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
             },
@@ -334,12 +509,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MedLSAM: Localize and Segment Anything Model for 3D Medical Images",
+                "homepage": null,
                 "id": 658246617,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-30T06:34:09Z",
+                "open_issues": 17,
                 "owner": "openmedlab",
                 "repo": "MedLSAM",
-                "stars": 524
+                "stars": 524,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
             }
@@ -357,12 +537,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2025] nnWNet: Rethinking the Use of Transformers in Biomedical Image Segmentation and Calling for a Unified Evaluation Benchmark",
+                "homepage": null,
                 "id": 946470349,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-05-17T14:21:27Z",
+                "open_issues": 14,
                 "owner": "Yanfeng-Zhou",
                 "repo": "nnWNet",
-                "stars": 76
+                "stars": 76,
+                "topics": [
+                  "biomedical-image-segmentation",
+                  "medical-image-analysis",
+                  "nnunet",
+                  "semantic-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
             },
@@ -373,12 +563,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 181846371,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-23T06:09:30Z",
+                "open_issues": 86,
                 "owner": "MIC-DKFZ",
                 "repo": "nnUNet",
-                "stars": 8836
+                "stars": 8836,
+                "topics": [
+                  "segmentation"
+                ]
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
             }
@@ -396,12 +593,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool for robust segmentation of >100 important anatomical structures in CT and MR images",
+                "homepage": null,
                 "id": 449681070,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-13T09:31:46Z",
+                "open_issues": 70,
                 "owner": "wasserth",
                 "repo": "TotalSegmentator",
-                "stars": 2955
+                "stars": 2957,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
             },
@@ -412,12 +614,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Brainchop: In-browser 3D MRI rendering and segmentation",
+                "homepage": "https://neuroneural.github.io/brainchop/",
                 "id": 383217362,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-24T15:42:46Z",
+                "open_issues": 9,
                 "owner": "neuroneural",
                 "repo": "brainchop",
-                "stars": 540
+                "stars": 540,
+                "topics": [
+                  "3d-segmentation",
+                  "deep-learning",
+                  "frontend-app",
+                  "javascript",
+                  "medical-imaging",
+                  "mri",
+                  "mri-segmentation",
+                  "neuroimaging",
+                  "pyodide",
+                  "tensorflowjs",
+                  "three-js"
+                ]
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
             },
@@ -428,12 +647,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository includes the official project of TransUNet, presented in our paper: TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation.",
+                "homepage": null,
                 "id": 336978043,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-25T04:44:14Z",
+                "open_issues": 138,
                 "owner": "Beckschen",
                 "repo": "TransUNet",
-                "stars": 3234
+                "stars": 3234,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
             },
@@ -444,12 +668,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A pytorch-based deep learning framework for multi-modal 2D/3D medical image segmentation",
+                "homepage": null,
                 "id": 198412763,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-25T10:58:26Z",
+                "open_issues": 22,
                 "owner": "black0017",
                 "repo": "MedicalZooPytorch",
-                "stars": 1918
+                "stars": 1918,
+                "topics": [
+                  "3d-convolutional-network",
+                  "brats2018",
+                  "brats2019",
+                  "deep-learning",
+                  "densenet",
+                  "iseg",
+                  "iseg-challenge",
+                  "medical-image-processing",
+                  "medical-image-segmentation",
+                  "medical-imaging",
+                  "mrbrains18",
+                  "pytorch",
+                  "resnet",
+                  "segmentation",
+                  "segmentation-models",
+                  "unet",
+                  "unet-image-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
             },
@@ -460,12 +707,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code to preprocess, segment, and fuse glioma MRI scans based on the BraTS Toolkit manuscript.",
+                "homepage": "https://www.frontiersin.org/articles/10.3389/fnins.2020.00125/full",
                 "id": 231487751,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-09-23T05:20:33Z",
+                "open_issues": 9,
                 "owner": "neuronflow",
                 "repo": "BraTS-Toolkit",
-                "stars": 105
+                "stars": 105,
+                "topics": [
+                  "glioblastoma",
+                  "glioma",
+                  "medical-imaging",
+                  "mri",
+                  "segmentation"
+                ]
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
             },
@@ -476,12 +734,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Medical Detection Toolkit contains 2D + 3D implementations of prevalent object detectors such as Mask R-CNN, Retina Net, Retina U-Net, as well as a training and inference framework focused on dealing with medical images.  ",
+                "homepage": null,
                 "id": 152747947,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-17T22:47:46Z",
+                "open_issues": 48,
                 "owner": "MIC-DKFZ",
                 "repo": "medicaldetectiontoolkit",
-                "stars": 1357
+                "stars": 1357,
+                "topics": [
+                  "3d-mask-rcnn",
+                  "3d-models",
+                  "3d-object-detection",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "detection",
+                  "mask-rcnn",
+                  "medical-image-analysis",
+                  "medical-image-computing",
+                  "medical-image-processing",
+                  "medical-imaging",
+                  "object-detection",
+                  "pytorch-cnn",
+                  "pytorch-deeplearning",
+                  "pytorch-implementation",
+                  "retina-net",
+                  "retina-unet",
+                  "segmentation",
+                  "semantic-segmentation",
+                  "u-net"
+                ]
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
             },
@@ -492,12 +776,38 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[unmaintained] An open-source convolutional neural networks platform for research in medical image analysis and image-guided therapy",
+                "homepage": "http://niftynet.io",
                 "id": 101853569,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2020-04-21T19:54:52Z",
+                "open_issues": 102,
                 "owner": "NifTK",
                 "repo": "NiftyNet",
-                "stars": 1374
+                "stars": 1374,
+                "topics": [
+                  "autoencoder",
+                  "convolutional-neural-networks",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "distributed",
+                  "gan",
+                  "image-guided-therapy",
+                  "medical-image-analysis",
+                  "medical-image-computing",
+                  "medical-image-processing",
+                  "medical-images",
+                  "medical-imaging",
+                  "ml",
+                  "neural-network",
+                  "pip",
+                  "python",
+                  "python2",
+                  "python3",
+                  "segmentation",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
             },
@@ -508,12 +818,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Efficient Multi-Scale 3D Convolutional Neural Network for Segmentation of 3D Medical Scans",
+                "homepage": null,
                 "id": 57151909,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-08-04T12:23:09Z",
+                "open_issues": 23,
                 "owner": "deepmedic",
                 "repo": "deepmedic",
-                "stars": 1063
+                "stars": 1063,
+                "topics": [
+                  "convolutional-neural-networks",
+                  "deep-learning",
+                  "machine-learning",
+                  "medical-imaging",
+                  "neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
             },
@@ -524,12 +845,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The implementation of 3D-UNet using PyTorch",
+                "homepage": null,
                 "id": 206358790,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-02-20T15:30:16Z",
+                "open_issues": 3,
                 "owner": "zyl200846",
                 "repo": "3D-UNet-PyTorch-Implementation",
-                "stars": 101
+                "stars": 101,
+                "topics": [
+                  "3d-segmentation",
+                  "3d-unet",
+                  "cross-validation",
+                  "pytorch",
+                  "pytorch-implementation",
+                  "semantic-segmentation",
+                  "unet",
+                  "volumetric-data"
+                ]
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
             },
@@ -540,12 +875,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of SegNet: A Deep Convolutional Encoder-Decoder Architecture for Semantic Pixel-Wise Labelling",
+                "homepage": "http://mi.eng.cam.ac.uk/projects/segnet/",
                 "id": 40366929,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2018-03-15T08:10:01Z",
+                "open_issues": 81,
                 "owner": "alexgkendall",
                 "repo": "caffe-segnet",
-                "stars": 1083
+                "stars": 1083,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
             }
@@ -567,12 +907,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source Python library for reproducible deep learning in neuroimaging",
+            "homepage": "https://clinicadl.readthedocs.io/en/stable/",
             "id": 197020652,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-18T14:24:56Z",
+            "open_issues": 32,
             "owner": "aramis-lab",
             "repo": "clinicadl",
-            "stars": 186
+            "stars": 186,
+            "topics": [
+              "brain-imaging",
+              "deep-learning",
+              "medical-imaging",
+              "neuroimaging",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
         },
@@ -583,12 +935,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python API for deploying deep neural networks for Neuroimaging research. Powered by IMG at Stevens Neuroimaging and Informatics Institute, KSOM, USC.",
+            "homepage": null,
             "id": 263194245,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2021-09-13T13:39:24Z",
+            "open_issues": 2,
             "owner": "NiftyTorch",
             "repo": "NiftyTorch.doc",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
         },
@@ -599,12 +956,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Basic LRP implementation in PyTorch",
+            "homepage": null,
             "id": 174129591,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-07-25T10:59:10Z",
+            "open_issues": 7,
             "owner": "moboehle",
             "repo": "Pytorch-LRP",
-            "stars": 175
+            "stars": 175,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
         },
@@ -615,12 +977,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3D brain image preprocessing and training (coded when I was a sophomore)",
+            "homepage": null,
             "id": 94410243,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-11-21T00:53:23Z",
+            "open_issues": 5,
             "owner": "RishalAggarwal",
             "repo": "3D-Convnet-for-Alzheimer-s-Detection",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
         },
@@ -631,12 +998,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3D image classification using CNN (Convolutional Neural Network)",
+            "homepage": null,
             "id": 87142290,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-10-29T19:08:19Z",
+            "open_issues": 0,
             "owner": "jibikbam",
             "repo": "CNN-3D-images-Tensorflow",
-            "stars": 268
+            "stars": 268,
+            "topics": [
+              "3d",
+              "classification",
+              "cnn",
+              "convolutional-neural-networks",
+              "dti",
+              "medical",
+              "mri",
+              "neural-network",
+              "nifti",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
         },
@@ -647,12 +1030,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep Learning Toolkit for Medical Image Analysis",
+            "homepage": "https://dltk.github.io/",
             "id": 90050085,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-24T22:27:46Z",
+            "open_issues": 15,
             "owner": "DLTK",
             "repo": "DLTK",
-            "stars": 1458
+            "stars": 1458,
+            "topics": [
+              "cnn",
+              "data-science",
+              "deep-learning",
+              "deep-neural-networks",
+              "dltk",
+              "dltk-model-zoo",
+              "machine-learning",
+              "medical",
+              "medical-image-processing",
+              "medical-imaging",
+              "ml",
+              "neural-network",
+              "neural-networks",
+              "neuroimaging",
+              "python",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
         },
@@ -663,12 +1068,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Graph CNNs for population graphs",
+            "homepage": null,
             "id": 89717499,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2022-03-28T01:55:19Z",
+            "open_issues": 6,
             "owner": "parisots",
             "repo": "population-gcn",
-            "stars": 180
+            "stars": 180,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
         }
@@ -685,12 +1095,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compressed Sensing MRI based on Deep Generative Adversarial Network ",
+            "homepage": "https://arxiv.org/abs/1706.00051",
             "id": 89663246,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2017-12-18T02:38:38Z",
+            "open_issues": 2,
             "owner": "gongenhao",
             "repo": "GANCS",
-            "stars": 90
+            "stars": 90,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
         },
@@ -701,12 +1116,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep Cascade of Convolutional Neural Networks for MR Image Reconstruction: Implementation & Demo",
+            "homepage": null,
             "id": 92837763,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-05-04T10:33:46Z",
+            "open_issues": 7,
             "owner": "js3611",
             "repo": "Deep-MRI-Reconstruction",
-            "stars": 346
+            "stars": 346,
+            "topics": [
+              "compressed-sensing",
+              "convolutional-neural-networks",
+              "deep-learning",
+              "deep-neural-networks",
+              "image-reconstruction",
+              "mri"
+            ]
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
         }
@@ -723,12 +1150,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatic White Matter Bundle Segmentation",
+            "homepage": null,
             "id": 109972425,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-23T13:23:20Z",
+            "open_issues": 64,
             "owner": "MIC-DKFZ",
             "repo": "TractSeg",
-            "stars": 265
+            "stars": 265,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
         },
@@ -739,12 +1171,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DIPY is the paragon 3D/4D+ medical imaging library in Python. Contains generic methods for spatial normalization, signal processing, machine learning, statistical analysis and visualization of medical images. Additionally, it contains specialized methods for computational anatomy including diffusion, perfusion and structural imaging.",
+            "homepage": "https://dipy.org",
             "id": 505209,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T04:47:27Z",
+            "open_issues": 132,
             "owner": "dipy",
             "repo": "dipy",
-            "stars": 837
+            "stars": 837,
+            "topics": [
+              "bundles",
+              "contextual-enhancement",
+              "denoising",
+              "diffusion-mri",
+              "dki",
+              "dti",
+              "machine-learning",
+              "medical-imaging",
+              "microstructure",
+              "neuroanatomy",
+              "neuroimaging",
+              "patch2self",
+              "python",
+              "registration",
+              "segmentation",
+              "self-supervised-learning",
+              "spherical-harmonics",
+              "tracking",
+              "tractography",
+              "tractometry"
+            ]
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
         }
@@ -761,12 +1219,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MNE: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python",
+            "homepage": "https://mne.tools",
             "id": 1301584,
             "language": "Python",
-            "last_commit": "2026-08-28T16:53:07Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-28T19:17:03Z",
+            "open_issues": 628,
             "owner": "mne-tools",
             "repo": "mne-python",
-            "stars": 3497
+            "stars": 3497,
+            "topics": [
+              "ecog",
+              "eeg",
+              "electrocorticography",
+              "electroencephalography",
+              "machine-learning",
+              "magnetoencephalography",
+              "meg",
+              "neuroimaging",
+              "neuroscience",
+              "python",
+              "statistics",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
         },
@@ -777,12 +1253,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neuroimaging in Python FMRI analysis package",
+            "homepage": "http://nipy.org/nipy",
             "id": 642344,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-12-24T16:12:08Z",
+            "open_issues": 40,
             "owner": "nipy",
             "repo": "nipy",
-            "stars": 414
+            "stars": 414,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
         }
@@ -799,12 +1280,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MONAI Tutorials",
+            "homepage": null,
             "id": 288774122,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-13T20:13:38Z",
+            "open_issues": 124,
             "owner": "Project-MONAI",
             "repo": "tutorials",
-            "stars": 2533
+            "stars": 2533,
+            "topics": [
+              "jupyter-notebook",
+              "monai",
+              "monai-tutorials",
+              "monai-workflows",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
         },
@@ -815,12 +1307,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 516618471,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2025-11-21T00:54:58Z",
+            "open_issues": 2,
             "owner": "Project-MONAI",
             "repo": "monai-bootcamp",
-            "stars": 75
+            "stars": 75,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
         },
@@ -831,12 +1328,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 181846371,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-23T06:09:30Z",
+            "open_issues": 86,
             "owner": "MIC-DKFZ",
             "repo": "nnUNet",
-            "stars": 8836
+            "stars": 8836,
+            "topics": [
+              "segmentation"
+            ]
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
         },
@@ -847,12 +1351,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A large-scale dataset of both raw MRI measurements and clinical MRI images.",
+            "homepage": "https://fastmri.org",
             "id": 154900564,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-21T14:15:30Z",
+            "open_issues": 18,
             "owner": "facebookresearch",
             "repo": "fastMRI",
-            "stars": 1533
+            "stars": 1533,
+            "topics": [
+              "convolutional-neural-networks",
+              "deep-learning",
+              "fastmri",
+              "fastmri-challenge",
+              "fastmri-dataset",
+              "medical-imaging",
+              "mri",
+              "mri-reconstruction",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
         }
@@ -861,15 +1380,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:36:34.315Z",
+    "last_updated": "2026-08-29T04:55:24.257Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Resurces for MRI images processing and deep learning in 3D",
+      "homepage": null,
       "id": 269449231,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-02-27T09:07:41Z",
+      "open_issues": 0,
       "owner": "kondratevakate",
       "repo": "mri-deep-learning-tools",
-      "stars": 155
+      "stars": 155,
+      "topics": [
+        "awesome-list",
+        "brain",
+        "classification",
+        "detection",
+        "medical-imaging",
+        "mri",
+        "neuroimaging",
+        "pytorch",
+        "segmentation"
+      ]
     },
     "original_repository_sha": "1222a468aa4cb603a85b9816aba74cfe5188b46e",
     "enhanced_repository": "enhansome/enhansome-mri-deep-learning-tools",
