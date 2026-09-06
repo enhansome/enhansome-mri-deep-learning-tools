@@ -177,7 +177,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-01T19:06:40Z",
-            "open_issues": 36,
+            "open_issues": 38,
             "owner": "TorchIO-project",
             "repo": "torchio",
             "stars": 2439,
@@ -208,10 +208,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-04T17:22:49Z",
-            "open_issues": 535,
+            "open_issues": 538,
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8652,
+            "stars": 8654,
             "topics": [
               "deep-learning",
               "healthcare-imaging",
@@ -236,8 +236,8 @@
             "id": 1235740,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-05T06:34:04Z",
-            "open_issues": 293,
+            "last_commit": "2026-09-06T05:35:40Z",
+            "open_issues": 292,
             "owner": "nilearn",
             "repo": "nilearn",
             "stars": 1429,
@@ -497,7 +497,7 @@
                 "open_issues": 17,
                 "owner": "bowang-lab",
                 "repo": "MedSAM",
-                "stars": 4387,
+                "stars": 4386,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
@@ -572,7 +572,7 @@
                 "open_issues": 87,
                 "owner": "MIC-DKFZ",
                 "repo": "nnUNet",
-                "stars": 8852,
+                "stars": 8853,
                 "topics": [
                   "segmentation"
                 ]
@@ -599,10 +599,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T21:39:21Z",
-                "open_issues": 70,
+                "open_issues": 71,
                 "owner": "wasserth",
                 "repo": "TotalSegmentator",
-                "stars": 2968,
+                "stars": 2971,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
@@ -623,7 +623,7 @@
                 "open_issues": 9,
                 "owner": "neuroneural",
                 "repo": "brainchop",
-                "stars": 539,
+                "stars": 540,
                 "topics": [
                   "3d-segmentation",
                   "deep-learning",
@@ -1176,8 +1176,8 @@
             "id": 505209,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T19:44:12Z",
-            "open_issues": 126,
+            "last_commit": "2026-09-06T05:58:54Z",
+            "open_issues": 127,
             "owner": "dipy",
             "repo": "dipy",
             "stars": 837,
@@ -1225,7 +1225,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-04T22:02:08Z",
-            "open_issues": 625,
+            "open_issues": 626,
             "owner": "mne-tools",
             "repo": "mne-python",
             "stars": 3502,
@@ -1337,7 +1337,7 @@
             "open_issues": 87,
             "owner": "MIC-DKFZ",
             "repo": "nnUNet",
-            "stars": 8852,
+            "stars": 8853,
             "topics": [
               "segmentation"
             ]
@@ -1380,7 +1380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T09:13:04.425Z",
+    "last_updated": "2026-09-06T09:35:13.451Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resurces for MRI images processing and deep learning in 3D",
