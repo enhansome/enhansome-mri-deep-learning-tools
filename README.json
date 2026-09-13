@@ -208,7 +208,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-12T09:18:26Z",
-            "open_issues": 525,
+            "open_issues": 527,
             "owner": "Project-MONAI",
             "repo": "MONAI",
             "stars": 8679,
@@ -237,7 +237,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-11T14:48:11Z",
-            "open_issues": 289,
+            "open_issues": 290,
             "owner": "nilearn",
             "repo": "nilearn",
             "stars": 1431,
@@ -569,10 +569,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-10T09:28:40Z",
-                "open_issues": 91,
+                "open_issues": 93,
                 "owner": "MIC-DKFZ",
                 "repo": "nnUNet",
-                "stars": 8880,
+                "stars": 8882,
                 "topics": [
                   "segmentation"
                 ]
@@ -602,7 +602,7 @@
                 "open_issues": 70,
                 "owner": "wasserth",
                 "repo": "TotalSegmentator",
-                "stars": 2982,
+                "stars": 2983,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
@@ -1039,7 +1039,7 @@
             "open_issues": 15,
             "owner": "DLTK",
             "repo": "DLTK",
-            "stars": 1458,
+            "stars": 1457,
             "topics": [
               "cnn",
               "data-science",
@@ -1224,11 +1224,11 @@
             "id": 1301584,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-12T00:47:45Z",
-            "open_issues": 617,
+            "last_commit": "2026-09-12T16:46:36Z",
+            "open_issues": 616,
             "owner": "mne-tools",
             "repo": "mne-python",
-            "stars": 3512,
+            "stars": 3514,
             "topics": [
               "ecog",
               "eeg",
@@ -1262,7 +1262,7 @@
             "open_issues": 40,
             "owner": "nipy",
             "repo": "nipy",
-            "stars": 415,
+            "stars": 416,
             "topics": []
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
@@ -1286,10 +1286,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-08-13T20:13:38Z",
-            "open_issues": 127,
+            "open_issues": 128,
             "owner": "Project-MONAI",
             "repo": "tutorials",
-            "stars": 2541,
+            "stars": 2540,
             "topics": [
               "jupyter-notebook",
               "monai",
@@ -1334,10 +1334,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-10T09:28:40Z",
-            "open_issues": 91,
+            "open_issues": 93,
             "owner": "MIC-DKFZ",
             "repo": "nnUNet",
-            "stars": 8880,
+            "stars": 8882,
             "topics": [
               "segmentation"
             ]
@@ -1380,7 +1380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T09:30:21.579Z",
+    "last_updated": "2026-09-13T10:29:01.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resurces for MRI images processing and deep learning in 3D",
