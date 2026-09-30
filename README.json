@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "AIM-KannLab",
             "repo": "BrainIAC",
-            "stars": 160,
+            "stars": 161,
             "topics": []
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
@@ -40,7 +40,7 @@
             "open_issues": 4,
             "owner": "mazurowski-lab",
             "repo": "mri_foundation",
-            "stars": 101,
+            "stars": 102,
             "topics": []
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
@@ -124,7 +124,7 @@
             "open_issues": 1,
             "owner": "mxliu",
             "repo": "ACTION-Software",
-            "stars": 27,
+            "stars": 28,
             "topics": [
               "ai",
               "federated-learning",
@@ -153,7 +153,7 @@
             "open_issues": 17,
             "owner": "vandijklab",
             "repo": "BrainLM",
-            "stars": 22,
+            "stars": 23,
             "topics": []
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
@@ -207,11 +207,11 @@
             "id": 214485001,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T17:32:32Z",
-            "open_issues": 525,
+            "last_commit": "2026-09-29T15:20:59Z",
+            "open_issues": 526,
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8731,
+            "stars": 8732,
             "topics": [
               "deep-learning",
               "healthcare-imaging",
@@ -237,10 +237,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-29T10:43:39Z",
-            "open_issues": 276,
+            "open_issues": 278,
             "owner": "nilearn",
             "repo": "nilearn",
-            "stars": 1440,
+            "stars": 1441,
             "topics": [
               "brain-connectivity",
               "brain-imaging",
@@ -267,11 +267,11 @@
             "id": 791352,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-19T14:20:42Z",
-            "open_issues": 161,
+            "last_commit": "2026-09-29T16:51:53Z",
+            "open_issues": 162,
             "owner": "nipy",
             "repo": "nibabel",
-            "stars": 794,
+            "stars": 795,
             "topics": [
               "afni-brik-head",
               "brain-imaging",
@@ -345,7 +345,7 @@
             "open_issues": 5,
             "owner": "neuro-ml",
             "repo": "deep_pipe",
-            "stars": 37,
+            "stars": 38,
             "topics": []
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
@@ -417,7 +417,7 @@
             "id": 20361729,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-28T16:24:09Z",
+            "last_commit": "2026-09-29T22:56:10Z",
             "open_issues": 422,
             "owner": "spinalcordtoolbox",
             "repo": "spinalcordtoolbox",
@@ -497,7 +497,7 @@
                 "open_issues": 17,
                 "owner": "bowang-lab",
                 "repo": "MedSAM",
-                "stars": 4407,
+                "stars": 4408,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
@@ -568,11 +568,11 @@
                 "id": 181846371,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T06:59:36Z",
-                "open_issues": 95,
+                "last_commit": "2026-09-29T13:05:21Z",
+                "open_issues": 97,
                 "owner": "MIC-DKFZ",
                 "repo": "nnUNet",
-                "stars": 8914,
+                "stars": 8920,
                 "topics": [
                   "segmentation"
                 ]
@@ -602,7 +602,7 @@
                 "open_issues": 76,
                 "owner": "wasserth",
                 "repo": "TotalSegmentator",
-                "stars": 3026,
+                "stars": 3029,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
@@ -916,7 +916,7 @@
             "open_issues": 33,
             "owner": "aramis-lab",
             "repo": "clinicadl",
-            "stars": 189,
+            "stars": 190,
             "topics": [
               "brain-imaging",
               "deep-learning",
@@ -1177,7 +1177,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-28T14:35:45Z",
-            "open_issues": 123,
+            "open_issues": 125,
             "owner": "dipy",
             "repo": "dipy",
             "stars": 844,
@@ -1224,11 +1224,11 @@
             "id": 1301584,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-28T13:08:49Z",
-            "open_issues": 620,
+            "last_commit": "2026-09-30T01:15:06Z",
+            "open_issues": 619,
             "owner": "mne-tools",
             "repo": "mne-python",
-            "stars": 3529,
+            "stars": 3533,
             "topics": [
               "ecog",
               "eeg",
@@ -1262,7 +1262,7 @@
             "open_issues": 40,
             "owner": "nipy",
             "repo": "nipy",
-            "stars": 417,
+            "stars": 418,
             "topics": []
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
@@ -1289,7 +1289,7 @@
             "open_issues": 128,
             "owner": "Project-MONAI",
             "repo": "tutorials",
-            "stars": 2557,
+            "stars": 2558,
             "topics": [
               "jupyter-notebook",
               "monai",
@@ -1316,7 +1316,7 @@
             "open_issues": 2,
             "owner": "Project-MONAI",
             "repo": "monai-bootcamp",
-            "stars": 75,
+            "stars": 76,
             "topics": []
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
@@ -1333,11 +1333,11 @@
             "id": 181846371,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T06:59:36Z",
-            "open_issues": 95,
+            "last_commit": "2026-09-29T13:05:21Z",
+            "open_issues": 97,
             "owner": "MIC-DKFZ",
             "repo": "nnUNet",
-            "stars": 8914,
+            "stars": 8920,
             "topics": [
               "segmentation"
             ]
@@ -1380,7 +1380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T11:29:02.092Z",
+    "last_updated": "2026-09-30T11:16:57.796Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resurces for MRI images processing and deep learning in 3D",
@@ -1392,7 +1392,7 @@
       "open_issues": 0,
       "owner": "kondratevakate",
       "repo": "mri-deep-learning-tools",
-      "stars": 155,
+      "stars": 156,
       "topics": [
         "awesome-list",
         "brain",
