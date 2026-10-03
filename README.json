@@ -237,7 +237,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-02T14:45:01Z",
-            "open_issues": 280,
+            "open_issues": 281,
             "owner": "nilearn",
             "repo": "nilearn",
             "stars": 1442,
@@ -572,7 +572,7 @@
                 "open_issues": 99,
                 "owner": "MIC-DKFZ",
                 "repo": "nnUNet",
-                "stars": 8931,
+                "stars": 8930,
                 "topics": [
                   "segmentation"
                 ]
@@ -599,7 +599,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T14:07:48Z",
-                "open_issues": 72,
+                "open_issues": 73,
                 "owner": "wasserth",
                 "repo": "TotalSegmentator",
                 "stars": 3032,
@@ -656,7 +656,7 @@
                 "open_issues": 138,
                 "owner": "Beckschen",
                 "repo": "TransUNet",
-                "stars": 3245,
+                "stars": 3244,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
@@ -1337,7 +1337,7 @@
             "open_issues": 99,
             "owner": "MIC-DKFZ",
             "repo": "nnUNet",
-            "stars": 8931,
+            "stars": 8930,
             "topics": [
               "segmentation"
             ]
@@ -1380,7 +1380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:56:54.279Z",
+    "last_updated": "2026-10-03T10:31:21.700Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resurces for MRI images processing and deep learning in 3D",
