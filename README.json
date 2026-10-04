@@ -207,11 +207,11 @@
             "id": 214485001,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T22:12:32Z",
-            "open_issues": 525,
+            "last_commit": "2026-10-04T08:29:44Z",
+            "open_issues": 517,
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8747,
+            "stars": 8750,
             "topics": [
               "deep-learning",
               "healthcare-imaging",
@@ -240,7 +240,7 @@
             "open_issues": 281,
             "owner": "nilearn",
             "repo": "nilearn",
-            "stars": 1442,
+            "stars": 1443,
             "topics": [
               "brain-connectivity",
               "brain-imaging",
@@ -497,7 +497,7 @@
                 "open_issues": 17,
                 "owner": "bowang-lab",
                 "repo": "MedSAM",
-                "stars": 4409,
+                "stars": 4410,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
@@ -572,7 +572,7 @@
                 "open_issues": 99,
                 "owner": "MIC-DKFZ",
                 "repo": "nnUNet",
-                "stars": 8930,
+                "stars": 8932,
                 "topics": [
                   "segmentation"
                 ]
@@ -602,7 +602,7 @@
                 "open_issues": 73,
                 "owner": "wasserth",
                 "repo": "TotalSegmentator",
-                "stars": 3032,
+                "stars": 3035,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
@@ -656,7 +656,7 @@
                 "open_issues": 138,
                 "owner": "Beckschen",
                 "repo": "TransUNet",
-                "stars": 3244,
+                "stars": 3245,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
@@ -1180,7 +1180,7 @@
             "open_issues": 121,
             "owner": "dipy",
             "repo": "dipy",
-            "stars": 847,
+            "stars": 848,
             "topics": [
               "bundles",
               "contextual-enhancement",
@@ -1337,7 +1337,7 @@
             "open_issues": 99,
             "owner": "MIC-DKFZ",
             "repo": "nnUNet",
-            "stars": 8930,
+            "stars": 8932,
             "topics": [
               "segmentation"
             ]
@@ -1380,7 +1380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T10:31:21.700Z",
+    "last_updated": "2026-10-04T11:12:40.818Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resurces for MRI images processing and deep learning in 3D",
