@@ -177,10 +177,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-06T01:08:29Z",
-            "open_issues": 47,
+            "open_issues": 49,
             "owner": "TorchIO-project",
             "repo": "torchio",
-            "stars": 2445,
+            "stars": 2444,
             "topics": [
               "augmentation",
               "data-augmentation",
@@ -207,11 +207,11 @@
             "id": 214485001,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T16:53:38Z",
-            "open_issues": 510,
+            "last_commit": "2026-10-09T19:57:13Z",
+            "open_issues": 509,
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8760,
+            "stars": 8762,
             "topics": [
               "deep-learning",
               "healthcare-imaging",
@@ -237,7 +237,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-07T06:08:01Z",
-            "open_issues": 284,
+            "open_issues": 285,
             "owner": "nilearn",
             "repo": "nilearn",
             "stars": 1443,
@@ -268,7 +268,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-08T10:38:37Z",
-            "open_issues": 161,
+            "open_issues": 162,
             "owner": "nipy",
             "repo": "nibabel",
             "stars": 794,
@@ -417,11 +417,11 @@
             "id": 20361729,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-08T20:01:57Z",
+            "last_commit": "2026-10-10T07:54:34Z",
             "open_issues": 431,
             "owner": "spinalcordtoolbox",
             "repo": "spinalcordtoolbox",
-            "stars": 272,
+            "stars": 273,
             "topics": [
               "mri",
               "neuroimage",
@@ -497,7 +497,7 @@
                 "open_issues": 17,
                 "owner": "bowang-lab",
                 "repo": "MedSAM",
-                "stars": 4413,
+                "stars": 4415,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
@@ -572,7 +572,7 @@
                 "open_issues": 96,
                 "owner": "MIC-DKFZ",
                 "repo": "nnUNet",
-                "stars": 8939,
+                "stars": 8943,
                 "topics": [
                   "segmentation"
                 ]
@@ -599,10 +599,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-06T11:38:07Z",
-                "open_issues": 76,
+                "open_issues": 78,
                 "owner": "wasserth",
                 "repo": "TotalSegmentator",
-                "stars": 3046,
+                "stars": 3052,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
@@ -656,7 +656,7 @@
                 "open_issues": 138,
                 "owner": "Beckschen",
                 "repo": "TransUNet",
-                "stars": 3245,
+                "stars": 3246,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
@@ -677,7 +677,7 @@
                 "open_issues": 22,
                 "owner": "black0017",
                 "repo": "MedicalZooPytorch",
-                "stars": 1920,
+                "stars": 1921,
                 "topics": [
                   "3d-convolutional-network",
                   "brats2018",
@@ -827,7 +827,7 @@
                 "open_issues": 23,
                 "owner": "deepmedic",
                 "repo": "deepmedic",
-                "stars": 1064,
+                "stars": 1065,
                 "topics": [
                   "convolutional-neural-networks",
                   "deep-learning",
@@ -854,7 +854,7 @@
                 "open_issues": 3,
                 "owner": "zyl200846",
                 "repo": "3D-UNet-PyTorch-Implementation",
-                "stars": 101,
+                "stars": 102,
                 "topics": [
                   "3d-segmentation",
                   "3d-unet",
@@ -1039,7 +1039,7 @@
             "open_issues": 15,
             "owner": "DLTK",
             "repo": "DLTK",
-            "stars": 1459,
+            "stars": 1460,
             "topics": [
               "cnn",
               "data-science",
@@ -1177,7 +1177,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-07T16:25:43Z",
-            "open_issues": 122,
+            "open_issues": 123,
             "owner": "dipy",
             "repo": "dipy",
             "stars": 849,
@@ -1224,11 +1224,11 @@
             "id": 1301584,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-08T17:00:27Z",
-            "open_issues": 614,
+            "last_commit": "2026-10-10T01:06:34Z",
+            "open_issues": 612,
             "owner": "mne-tools",
             "repo": "mne-python",
-            "stars": 3539,
+            "stars": 3540,
             "topics": [
               "ecog",
               "eeg",
@@ -1289,7 +1289,7 @@
             "open_issues": 129,
             "owner": "Project-MONAI",
             "repo": "tutorials",
-            "stars": 2562,
+            "stars": 2566,
             "topics": [
               "jupyter-notebook",
               "monai",
@@ -1337,7 +1337,7 @@
             "open_issues": 96,
             "owner": "MIC-DKFZ",
             "repo": "nnUNet",
-            "stars": 8939,
+            "stars": 8943,
             "topics": [
               "segmentation"
             ]
@@ -1380,7 +1380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T12:01:15.637Z",
+    "last_updated": "2026-10-10T11:17:55.609Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resurces for MRI images processing and deep learning in 3D",
