@@ -177,7 +177,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-29T00:30:08Z",
-            "open_issues": 62,
+            "open_issues": 61,
             "owner": "TorchIO-project",
             "repo": "torchio",
             "stars": 2452,
@@ -211,7 +211,7 @@
             "open_issues": 533,
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8813,
+            "stars": 8815,
             "topics": [
               "deep-learning",
               "healthcare-imaging",
@@ -237,7 +237,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-29T19:58:56Z",
-            "open_issues": 278,
+            "open_issues": 279,
             "owner": "nilearn",
             "repo": "nilearn",
             "stars": 1452,
@@ -267,7 +267,7 @@
             "id": 791352,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T23:43:02Z",
+            "last_commit": "2026-11-01T04:02:36Z",
             "open_issues": 176,
             "owner": "nipy",
             "repo": "nibabel",
@@ -572,7 +572,7 @@
                 "open_issues": 83,
                 "owner": "MIC-DKFZ",
                 "repo": "nnUNet",
-                "stars": 8999,
+                "stars": 9000,
                 "topics": [
                   "segmentation"
                 ]
@@ -602,7 +602,7 @@
                 "open_issues": 89,
                 "owner": "wasserth",
                 "repo": "TotalSegmentator",
-                "stars": 3100,
+                "stars": 3101,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
@@ -785,7 +785,7 @@
                 "open_issues": 102,
                 "owner": "NifTK",
                 "repo": "NiftyNet",
-                "stars": 1377,
+                "stars": 1378,
                 "topics": [
                   "autoencoder",
                   "convolutional-neural-networks",
@@ -1039,7 +1039,7 @@
             "open_issues": 16,
             "owner": "DLTK",
             "repo": "DLTK",
-            "stars": 1460,
+            "stars": 1461,
             "topics": [
               "cnn",
               "data-science",
@@ -1159,7 +1159,7 @@
             "open_issues": 63,
             "owner": "MIC-DKFZ",
             "repo": "TractSeg",
-            "stars": 271,
+            "stars": 272,
             "topics": []
           },
           "first_seen": "2026-08-28T17:36:34.315Z"
@@ -1177,7 +1177,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-30T19:20:58Z",
-            "open_issues": 130,
+            "open_issues": 132,
             "owner": "dipy",
             "repo": "dipy",
             "stars": 851,
@@ -1224,11 +1224,11 @@
             "id": 1301584,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-30T18:05:01Z",
-            "open_issues": 613,
+            "last_commit": "2026-11-01T05:08:36Z",
+            "open_issues": 615,
             "owner": "mne-tools",
             "repo": "mne-python",
-            "stars": 3576,
+            "stars": 3577,
             "topics": [
               "ecog",
               "eeg",
@@ -1289,7 +1289,7 @@
             "open_issues": 128,
             "owner": "Project-MONAI",
             "repo": "tutorials",
-            "stars": 2579,
+            "stars": 2580,
             "topics": [
               "jupyter-notebook",
               "monai",
@@ -1337,7 +1337,7 @@
             "open_issues": 83,
             "owner": "MIC-DKFZ",
             "repo": "nnUNet",
-            "stars": 8999,
+            "stars": 9000,
             "topics": [
               "segmentation"
             ]
@@ -1380,7 +1380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T11:02:29.946Z",
+    "last_updated": "2026-11-01T11:56:57.741Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resurces for MRI images processing and deep learning in 3D",
