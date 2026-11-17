@@ -180,7 +180,7 @@
             "open_issues": 72,
             "owner": "TorchIO-project",
             "repo": "torchio",
-            "stars": 2456,
+            "stars": 2457,
             "topics": [
               "augmentation",
               "data-augmentation",
@@ -207,8 +207,8 @@
             "id": 214485001,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T14:07:18Z",
-            "open_issues": 559,
+            "last_commit": "2026-11-17T13:44:50Z",
+            "open_issues": 561,
             "owner": "Project-MONAI",
             "repo": "MONAI",
             "stars": 8843,
@@ -236,11 +236,11 @@
             "id": 1235740,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-16T12:50:14Z",
-            "open_issues": 285,
+            "last_commit": "2026-11-17T12:26:34Z",
+            "open_issues": 295,
             "owner": "nilearn",
             "repo": "nilearn",
-            "stars": 1456,
+            "stars": 1457,
             "topics": [
               "brain-connectivity",
               "brain-imaging",
@@ -417,11 +417,11 @@
             "id": 20361729,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-13T16:15:38Z",
-            "open_issues": 433,
+            "last_commit": "2026-11-17T01:20:27Z",
+            "open_issues": 425,
             "owner": "spinalcordtoolbox",
             "repo": "spinalcordtoolbox",
-            "stars": 275,
+            "stars": 274,
             "topics": [
               "mri",
               "neuroimage",
@@ -455,7 +455,7 @@
                 "open_issues": 17,
                 "owner": "bowang-lab",
                 "repo": "MedSAM2",
-                "stars": 739,
+                "stars": 740,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
@@ -497,7 +497,7 @@
                 "open_issues": 19,
                 "owner": "bowang-lab",
                 "repo": "MedSAM",
-                "stars": 4448,
+                "stars": 4449,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
@@ -568,11 +568,11 @@
                 "id": 181846371,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-12T13:45:12Z",
-                "open_issues": 32,
+                "last_commit": "2026-11-17T12:41:56Z",
+                "open_issues": 33,
                 "owner": "MIC-DKFZ",
                 "repo": "nnUNet",
-                "stars": 9045,
+                "stars": 9048,
                 "topics": [
                   "segmentation"
                 ]
@@ -598,11 +598,11 @@
                 "id": 449681070,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T12:38:51Z",
-                "open_issues": 92,
+                "last_commit": "2026-11-17T10:33:06Z",
+                "open_issues": 95,
                 "owner": "wasserth",
                 "repo": "TotalSegmentator",
-                "stars": 3150,
+                "stars": 3156,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
@@ -656,7 +656,7 @@
                 "open_issues": 138,
                 "owner": "Beckschen",
                 "repo": "TransUNet",
-                "stars": 3251,
+                "stars": 3253,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:36:34.315Z"
@@ -743,7 +743,7 @@
                 "open_issues": 49,
                 "owner": "MIC-DKFZ",
                 "repo": "medicaldetectiontoolkit",
-                "stars": 1364,
+                "stars": 1363,
                 "topics": [
                   "3d-mask-rcnn",
                   "3d-models",
@@ -912,7 +912,7 @@
             "id": 197020652,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-16T07:22:35Z",
+            "last_commit": "2026-11-16T15:08:18Z",
             "open_issues": 40,
             "owner": "aramis-lab",
             "repo": "clinicadl",
@@ -1176,11 +1176,11 @@
             "id": 505209,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T05:27:22Z",
-            "open_issues": 128,
+            "last_commit": "2026-11-16T14:51:05Z",
+            "open_issues": 130,
             "owner": "dipy",
             "repo": "dipy",
-            "stars": 856,
+            "stars": 857,
             "topics": [
               "bundles",
               "contextual-enhancement",
@@ -1225,10 +1225,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-16T10:14:36Z",
-            "open_issues": 629,
+            "open_issues": 635,
             "owner": "mne-tools",
             "repo": "mne-python",
-            "stars": 3594,
+            "stars": 3595,
             "topics": [
               "ecog",
               "eeg",
@@ -1333,11 +1333,11 @@
             "id": 181846371,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T13:45:12Z",
-            "open_issues": 32,
+            "last_commit": "2026-11-17T12:41:56Z",
+            "open_issues": 33,
             "owner": "MIC-DKFZ",
             "repo": "nnUNet",
-            "stars": 9045,
+            "stars": 9048,
             "topics": [
               "segmentation"
             ]
@@ -1380,7 +1380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T13:53:40.406Z",
+    "last_updated": "2026-11-17T14:46:05.418Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resurces for MRI images processing and deep learning in 3D",
